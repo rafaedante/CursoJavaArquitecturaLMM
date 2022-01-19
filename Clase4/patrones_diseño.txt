@@ -1,0 +1,29 @@
+
+patrones de diseño
+
+- patrones creacionales
+
+	*  factory method
+	*  abstract factory
+	*  builder
+	*  prototype
+	*  singleton
+
+- patrones de comportamiento
+
+	*  iterator
+	*  command
+	*  mediator
+	*  observer
+	*  state 
+	*  strategy
+
+
+- patrones estructurales
+
+	* adapter
+	* bridge
+	* composite
+	* facade
+	* decorator
+   	* proxy
